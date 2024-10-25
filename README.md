@@ -2,7 +2,7 @@
 
 ## Overview
 
-This is a simple C# console application that simulates a drone delivery system for BYU. The user can add items to a cart, check out, and receive an estimated delivery time based on the package's weight and the distance to their street.
+This is a simple C# console application that simulates a drone delivery system for BYUI. The user can add items to a cart, check out, and receive an estimated delivery time based on the package's weight and the distance to their street.
 
 ### Features
 - **Menu Options**:
